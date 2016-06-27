@@ -1,0 +1,110 @@
+# MODFLOW2000 Zone File
+# Groundwater Vistas writes all zones regardless of whether
+# they are being used.  These zones include:
+#     kxzone##, kzzone##, szone##, rzone, and etzone, where
+#     ## is the layer number
+  47
+kxzone1
+         0         1(50I3)                      -1     K Zones for Layer 1
+kxzone2
+         0         1(50I3)                      -1     K Zones for Layer 2
+kxzone3
+         0         1(50I3)                      -1     K Zones for Layer 3
+kxzone4
+         0         1(50I3)                      -1     K Zones for Layer 4
+kxzone5
+         0         1(50I3)                      -1     K Zones for Layer 5
+kxzone6
+         0         1(50I3)                      -1     K Zones for Layer 6
+kxzone7
+         0         1(50I3)                      -1     K Zones for Layer 7
+kxzone8
+         0         1(50I3)                      -1     K Zones for Layer 8
+kxzone9
+         0         1(50I3)                      -1     K Zones for Layer 9
+kxzone10
+         0         1(50I3)                      -1     K Zones for Layer 10
+kxzone11
+        40         1(50I3)                      -1     K Zones for Layer 11
+  3  3  3  3  3  3  3  3  3  3  3  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2
+  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2
+kxzone12
+        40         1(50I3)                      -1     K Zones for Layer 12
+  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2
+  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2
+kxzone13
+        40         1(50I3)                      -1     K Zones for Layer 13
+  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2
+  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2
+kxzone14
+        40         1(50I3)                      -1     K Zones for Layer 14
+  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2
+  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2
+kxzone15
+        40         1(50I3)                      -1     K Zones for Layer 15
+  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  2  2
+  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2
+kxzone16
+         0         3(50I3)                      -1     K Zones for Layer 16
+kxzone17
+         0         3(50I3)                      -1     K Zones for Layer 17
+kxzone18
+         0         3(50I3)                      -1     K Zones for Layer 18
+kxzone19
+         0         3(50I3)                      -1     K Zones for Layer 19
+kxzone20
+         0         3(50I3)                      -1     K Zones for Layer 20
+kxzone21
+         0         3(50I3)                      -1     K Zones for Layer 21
+kxzone22
+         0         3(50I3)                      -1     K Zones for Layer 22
+kxzone23
+         0         3(50I3)                      -1     K Zones for Layer 23
+szone1
+         0         1(50I3)                      -1     S Zones for Layer 1
+szone2
+         0         1(50I3)                      -1     S Zones for Layer 2
+szone3
+         0         1(50I3)                      -1     S Zones for Layer 3
+szone4
+         0         1(50I3)                      -1     S Zones for Layer 4
+szone5
+         0         1(50I3)                      -1     S Zones for Layer 5
+szone6
+         0         1(50I3)                      -1     S Zones for Layer 6
+szone7
+         0         1(50I3)                      -1     S Zones for Layer 7
+szone8
+         0         1(50I3)                      -1     S Zones for Layer 8
+szone9
+         0         1(50I3)                      -1     S Zones for Layer 9
+szone10
+         0         1(50I3)                      -1     S Zones for Layer 10
+szone11
+         0         1(50I3)                      -1     S Zones for Layer 11
+szone12
+         0         1(50I3)                      -1     S Zones for Layer 12
+szone13
+         0         1(50I3)                      -1     S Zones for Layer 13
+szone14
+         0         1(50I3)                      -1     S Zones for Layer 14
+szone15
+         0         1(50I3)                      -1     S Zones for Layer 15
+szone16
+         0         1(50I3)                      -1     S Zones for Layer 16
+szone17
+         0         1(50I3)                      -1     S Zones for Layer 17
+szone18
+         0         1(50I3)                      -1     S Zones for Layer 18
+szone19
+         0         1(50I3)                      -1     S Zones for Layer 19
+szone20
+         0         1(50I3)                      -1     S Zones for Layer 20
+szone21
+         0         1(50I3)                      -1     S Zones for Layer 21
+szone22
+         0         1(50I3)                      -1     S Zones for Layer 22
+szone23
+         0         1(50I3)                      -1     S Zones for Layer 23
+rzone1
+         0         1(50I3)                      -1     Recharge Zones for Stress Period 1

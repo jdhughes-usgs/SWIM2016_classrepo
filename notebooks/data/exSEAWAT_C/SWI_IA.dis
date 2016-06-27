@@ -1,0 +1,30 @@
+# MODFLOW2000 Discretization File
+ 23  1  100  1  4  0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+         0   100.000(10E12.4)                    0     DELTA-X or C
+         0   100.000(10E12.4)                    0     DELTA-Y or R
+         0     2.500(10e12.4)                   -1     TOP of Model
+         0    -2.500(10e12.4)                   -1     BOTTOM of Layer   1
+         0    -7.500(10e12.4)                   -1     BOTTOM of Layer   2
+         0   -12.500(10e12.4)                   -1     BOTTOM of Layer   3
+         0   -17.500(10e12.4)                   -1     BOTTOM of Layer   4
+         0   -22.500(10e12.4)                   -1     BOTTOM of Layer   5
+         0   -27.500(10e12.4)                   -1     BOTTOM of Layer   6
+         0   -32.500(10e12.4)                   -1     BOTTOM of Layer   7
+         0   -37.500(10e12.4)                   -1     BOTTOM of Layer   8
+         0   -42.500(10e12.4)                   -1     BOTTOM of Layer   9
+         0   -47.500(10e12.4)                   -1     BOTTOM of Layer  10
+         0   -52.500(10e12.4)                   -1     BOTTOM of Layer  11
+         0   -57.500(10e12.4)                   -1     BOTTOM of Layer  12
+         0   -62.500(10e12.4)                   -1     BOTTOM of Layer  13
+         0   -67.500(10e12.4)                   -1     BOTTOM of Layer  14
+         0   -72.500(10e12.4)                   -1     BOTTOM of Layer  15
+         0   -77.500(10e12.4)                   -1     BOTTOM of Layer  16
+         0   -82.500(10e12.4)                   -1     BOTTOM of Layer  17
+         0   -87.500(10e12.4)                   -1     BOTTOM of Layer  18
+         0   -92.500(10e12.4)                   -1     BOTTOM of Layer  19
+         0   -97.500(10e12.4)                   -1     BOTTOM of Layer  20
+         0  -102.500(10e12.4)                   -1     BOTTOM of Layer  21
+         0  -107.500(10e12.4)                   -1     BOTTOM of Layer  22
+         0  -112.500(10e12.4)                   -1     BOTTOM of Layer  23
+  2000.000000  1  1.000000  TR
