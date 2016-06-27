@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/langevin-usgs/SWIM2016Course/master/doc/img/header.png?token=ADN1c19sj7Yf2n2C_UQ00z2ouOSEoq0aks5XYppTwA%3D%3D" alt="SWIM2016Course" style="width:50;height:20">
+<img src="https://raw.githubusercontent.com/jdhughes-usgs/SWIM2016_classrepo/master/doc/img/header.png?token=ADN1c19sj7Yf2n2C_UQ00z2ouOSEoq0aks5XYppTwA%3D%3D" alt="SWIM2016Course" style="width:50;height:20">
 
 # SWIM2016Course
 This is the GitHub repository for the pre-conference workshop taught at the [2016 SWIM-APCAMM meeting](http://www.plevin.com.au/swim2016/index.html).
