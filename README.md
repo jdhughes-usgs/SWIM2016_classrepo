@@ -1,7 +1,8 @@
 <img src="./notebooks/img/header.png" alt="SWIM2016Course" style="width:50;height:20">
 
-# SWIM2016Course
-This is the GitHub repository for the pre-conference workshop taught at the [2016 SWIM-APCAMM meeting](http://www.plevin.com.au/swim2016/index.html).
+# SWIM2016 Pre-Conference Short Course GitHub Repository
+
+This is the class GitHub repository for the pre-conference workshop taught at the [2016 SWIM-APCAMM meeting](http://www.plevin.com.au/swim2016/index.html).
 
 Pre-Conference Workshop - Groundwater in Coastal Zones - Modelling and measurement.
 Tues 28 June-Sat 2 July 2016
