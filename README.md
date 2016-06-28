@@ -66,32 +66,32 @@ Optional exercises:
 ## Schedule
 
 ### Day 1
-* Introduction to Python and Jupyter Notebooks
-* Notebook -- Hand calculations of head and pressure (exHandCalculations_A)
+* Demonstration -- Introduction to Python and Jupyter Notebooks
 * Presentation -- Analytical solutions and more
 * Notebook -- Interface flow toward the coast (exAnalytic_A)
 * Notebook -- More interface flow toward the coast (exAnalytic_B)
+* Notebook -- A well near the coast (exAnalytic_C)
+* Notebook -- Hand calculations of head and pressure (exHandCalculations_A)
 
 ### Day 2
-* Notebook -- A well near the coast (exAnalytic_C)
-* Presentation -- SWI Package for MODFLOW
-* Notebook -- Interface flow (exSWI_A)
-* Notebook -- More interface flow (exSWI_B)
-* Notebook -- Transient saltwater intrusion near wells (exSWI_C)
-
-### Day 3
+* Demonstration -- flopy
+* Notebook -- Hand calculations of head and pressure (exHandCalculations_B)
 * Presentation -- SEAWAT concepts
-* Notebook -- Hand calculations of head and pressure (exHandCalculations_A)
 * Presentation -- Overview of Henry Problem
 * Notebook -- Henry Problem (exA)
 * Presentation -- Class problem
 * Notebook -- Design, run, and calibrate 2D model (exC)
 
-### Day 4
+### Day 3
 * Notebook -- Design and run 3D model (exD)
 * Notebook -- Particle tracking with SEAWAT model (exD cont)
-* Notebook -- Simulating effects of tides (exE)
-* Notebook -- Simulating and quantifying SGD (exF)
+* Notebook -- Simulating effects of tides?? (exE)
+* Notebook -- Simulating and quantifying SGD?? (exF)
 * Notebook -- Solute and heat transport (exG)
 * Presentation -- Next steps
 
+### Day 4
+* Presentation -- SWI Package for MODFLOW
+* Notebook -- Interface flow (exSWI_A)
+* Notebook -- More interface flow (exSWI_B)
+* Notebook -- Transient saltwater intrusion near wells (exSWI_C)
