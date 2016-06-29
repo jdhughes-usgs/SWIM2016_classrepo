@@ -71,12 +71,12 @@ Optional exercises:
 * Notebook -- Interface flow toward the coast (exAnalytic_A)
 * Notebook -- More interface flow toward the coast (exAnalytic_B)
 * Notebook -- A well near the coast (exAnalytic_C)
-* Notebook -- Hand calculations of head and pressure (exHandCalculations_A)
 
 ### Day 2
 * Demonstration -- flopy
-* Notebook -- Hand calculations of head and pressure (exHandCalculations_B)
 * Presentation -- SEAWAT concepts
+* Notebook -- Hand calculations of head and pressure (exHandCalculations_A)
+* Notebook -- Hand calculations of head and pressure (exHandCalculations_B)
 * Presentation -- Overview of Henry Problem
 * Notebook -- Henry Problem (exA)
 * Presentation -- Class problem
