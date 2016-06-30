@@ -79,22 +79,22 @@ Optional exercises:
 * Presentation -- Overview of Henry Problem
 * Notebook -- Henry Problem (exA)
 * Presentation -- Class problem
-* Notebook -- Design, run, and calibrate 2D model (exC)
+* Notebook -- Design, run, and calibrate 2D model (exB)
 
 ### Day 3
 * Notebook -- Hand calculations of head and pressure (exHandCalculations_B)
-* Notebook -- Design and run 3D model (exD)
-* Notebook -- Particle tracking with SEAWAT model (exD cont)
+* Notebook -- Design and run 3D model (exC)
+* Notebook -- Particle tracking with SEAWAT model (exC cont)
 * Notebook Exercise -- Running the Henry problem in a script
+* Notebook -- Solute and heat transport (exD)
 * Notebook -- Simulating effects of tides?? (exE)
 * Notebook -- Simulating and quantifying SGD?? (exF)
-* Notebook -- Solute and heat transport (exG)
 * Presentation -- Next steps
 
 ### Day 4
 * Presentation -- Short Introduction to the SWI Package for MODFLOW
 * Notebook -- SWI equivalent to analytic example B
 * Notebook Exercise -- SWI equivalent to analytic example C (Strack Solution) or A (island)
-* Notebook -- SWI equivalent to SEAWAT exC
+* Notebook -- SWI equivalent to SEAWAT exB
 * Class exercise
 * Presentation -- Real world applications of seawater intrusion problems
