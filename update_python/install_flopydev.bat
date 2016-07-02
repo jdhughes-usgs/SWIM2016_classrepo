@@ -1,5 +1,6 @@
 
 C:\Miniconda3\scripts\conda uninstall -y flopy
+C:\Miniconda3\scripts\pip uninstall -y flopy
 
 # install develpment version
 cd flopy-3.2.6
