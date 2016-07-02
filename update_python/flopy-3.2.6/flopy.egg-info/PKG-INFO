@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: flopy
+Version: 3.2.6
+Summary: FloPy is a Python package to create, run, and post-process MODFLOW-based models.
+Home-page: https://github.com/modflowpy/flopy/
+Author: Mark Bakker, Vincent Post, Chris Langevin, Joe Hughes, Jeremy White, Jeff Starn, Mike Fienen, and Alain Frances
+Author-email: mark.bakker@tudelft.nl, vincent.post@flinders.edu.au, langevin@usgs.gov, jdhughes@usgs.gov, jwhite@usgs.gov, jjstarn@usgs.gov, mnfienen@usgs.gov, aleaf@usgs.gov, frances.alain@gmail.com
+License: New BSD
+Description: UNKNOWN
+Platform: Windows
+Platform: Mac OS-X
